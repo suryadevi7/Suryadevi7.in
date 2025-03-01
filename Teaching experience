@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teaching & Contributions</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <header>
+        <h1>Teaching & Contributions</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="publications.html">Publications & Research</a></li>
+                <li><a href="teaching.html">Teaching & Contributions</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <section>
+            <h2>Teaching Experience</h2>
+            <ul>
+                <li>Assistant Professor, Thiagarajar College of Engineering (2019 - Present)</li>
+                <li>Assistant Professor, Vickram College of Engineering (2010 - 2019)</li>
+                <li>Lecturer, Sethu Institute of Technology (2008 - 2010)</li>
+            </ul>
+        </section>
+        
+        <section>
+            <h2>Contributions</h2>
+            <ul>
+                <li>Developed TCE MOOC Online Course: Applied Statistics with Python.</li>
+                <li>Organized guest lectures, webinars, and workshops.</li>
+                <li>Coordinated departmental activities, including time-table and workload management.</li>
+                <li>Mentored students through special classes and research contests.</li>
+            </ul>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2025 Surya Devi. All rights reserved.</p>
+    </footer>
+</body>
+</html>
